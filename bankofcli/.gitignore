@@ -1,0 +1,18 @@
+# Maven build files
+target/
+
+# Compiled files
+*.class
+
+# Database credentials
+src/main/resources/db.properties
+
+# Logs
+logs/
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/

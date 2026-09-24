@@ -21,7 +21,7 @@ public class Transaction {
         this.type = type;
         this.amount = amount;
         this.relatedAccountId = relatedAccountId;
-        this.timestamp = timestamp;
+        this.createdAt = createdAt;
     }
 
     public int getTransactionId() {
